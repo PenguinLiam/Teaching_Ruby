@@ -1,10 +1,10 @@
 # Teaching_Ruby
 ## How to clone the repository
-Create a new project on codio using 'ruby + rails' and in the project open a terminal. In the terminal copy & paste the command:
+Create a new project on codio using 'ruby + rails' and in the project open a terminal. Into the terminal, type/copy the following command:
 ```
 git clone https://github.com/PenguinLiam/Teaching_Ruby.git
 ```
-This will copy the git repository onto your codio project.Then type the following command in the terminal:
+This will copy the git repository onto your codio project. Then type/copy the following command into the terminal:
 ```
 cd Teaching_Ruby
 ```
