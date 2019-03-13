@@ -15,3 +15,6 @@ To run the project, enter the following command in the terminal:
 ```
 ruby app.rb
 ```
+
+## Code
+Look through the examples and mess around with them, add new ones, do whatever.
